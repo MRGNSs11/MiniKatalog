@@ -1,16 +1,15 @@
-# React + Vite
+# Mini Katalog Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Kısa Açıklama
+Mini Katalog, teknolojik cihazların listelendiği, kullanıcıların ürün detaylarını inceleyebildiği ve beğendikleri ürünleri sepete ekleyebildiği bir e-ticaret mobil uygulamasıdır.
 
-Currently, two official plugins are available:
+## Kullanılan Flutter Sürümü
+Flutter 3.41.4 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision ff37bef603 (3 months ago) • 2026-03-03 16:03:22 -0800
+Engine • hash 99578ad0355da00edb26301c874a3c250a5716f5 (revision e4b8dca3f1) (2 months ago) • 2026-03-03 18:24:54.000Z
+Tools • Dart 3.11.1 • DevTools 2.54.1
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Çalıştırma Adımları
+1. Projeyi bilgisayarınıza klonlayın:
+   ```bash
+   git clone [GitHub-Repository-Linki-Buraya-Gelecek]
